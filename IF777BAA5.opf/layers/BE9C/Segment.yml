@@ -1,0 +1,104 @@
+id: 61e7f707e2a94621969b252db2e7f8c7
+annotation_type: Segment
+revision: '00001'
+annotations:
+  49c07129f01d4af0974a0a8996d0e04b:
+    span:
+      start: 0
+      end: 43
+  91ab39ff77b642a9991edc5d907cf710:
+    span:
+      start: 45
+      end: 86
+  d91374a8c2e84d6c92451d123160ec61:
+    span:
+      start: 88
+      end: 117
+  a039aa97705d46b7a4d42df8dd12debd:
+    span:
+      start: 119
+      end: 218
+  a4568a4fa04d471a840abf3879af1209:
+    span:
+      start: 220
+      end: 322
+  65e209045c45400fbe7d6fc47672b11a:
+    span:
+      start: 324
+      end: 388
+  4c140ecf077f4d60beb2d814cf47d00e:
+    span:
+      start: 390
+      end: 483
+  b00eb904502f46368ff52670bbfeb8f6:
+    span:
+      start: 485
+      end: 807
+  80ae8c15fdba4c75a076d9cf7bfbb3aa:
+    span:
+      start: 809
+      end: 871
+  5a2ee69b5ffa41ceb4135dab14240c87:
+    span:
+      start: 873
+      end: 970
+  b4efbf5f3e214c6c8422d1e3ce12a56e:
+    span:
+      start: 972
+      end: 1081
+  002698d0695d4f9dbcd1507f3c18a40d:
+    span:
+      start: 1083
+      end: 1128
+  2137e347c8b04ec7a764ccd8c6a0bbd1:
+    span:
+      start: 1130
+      end: 1166
+  a91dfc677fbe47df86eb5d0325a57b1b:
+    span:
+      start: 1168
+      end: 1225
+  bd15b3c8c0fe4492971f9da0bd5554dd:
+    span:
+      start: 1227
+      end: 1253
+  0000aeff6e7f4662b153409b4c154522:
+    span:
+      start: 1255
+      end: 1301
+  a72f88f1b3104a4f8a98e3c3a76c4f8a:
+    span:
+      start: 1303
+      end: 1420
+  a0e169e148984a4db29dad2aa53b113c:
+    span:
+      start: 1422
+      end: 1432
+  3c750b25024e47f4aec6709737481387:
+    span:
+      start: 1434
+      end: 1454
+  d2ac542048f04db6bd1a5b7aaf44bba1:
+    span:
+      start: 1456
+      end: 1498
+  44fdc50499f5461b8bbc0cd8c215ed4c:
+    span:
+      start: 1500
+      end: 1549
+  4acdb49089bc4f209415b6b5b9893b18:
+    span:
+      start: 1551
+      end: 1588
+  8a46e1e3b6a64d7d85d89bef57ecd769:
+    span:
+      start: 1590
+      end: 1620
+  517f536c67c341e8948cad8eec4c645b:
+    span:
+      start: 1622
+      end: 1932
+  aa0dc08c58a94795b8a36e57e9f31593:
+    span:
+      start: 1934
+      end: 1983
